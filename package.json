@@ -2,6 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "homepage": "https://jessicalico.github.io/website",
+  "proxy": "https://labcat.pro",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
