@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: 'sparkystones';
+      src: url('/SparkyStones-Regular.woff2') format('woff2');
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+
+      font-family: 'behindninety';
+      src: url('/behindninety.woff2') format('woff2');
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+    }
+  }
+
+@layer components {
+  .navbar-gradient {
+    @apply bg-gradient-to-r from-[#6e3ba5] from-60% via-[#5cb6ff] via-80% to-[#ff5ccb] to-100%
+  }
+}
+
+
