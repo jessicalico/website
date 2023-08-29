@@ -1,8 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": ".",
-  "proxy": "https://labcat.pro",
+  "proxy": "https://labcat.pro/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
