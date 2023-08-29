@@ -9,12 +9,12 @@ import Contact from './components/pages/Contact';
 function App() {
   return (
     <>
-    <Router>
+    <Router basename="/website">
       <Navbar />
       <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path='/projects' element={<Projects/>} />
-        <Route path='/contact' element={<Contact/>} />
+        <Route path='' element={<Home/>} />
+        <Route path='projects' element={<Projects/>} />
+        <Route path='contact' element={<Contact/>} />
       </Routes>
       </Router>
   </>
