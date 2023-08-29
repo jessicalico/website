@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "https://jessicalico.github.io/website",
+  "homepage": ".",
   "proxy": "https://labcat.pro",
   "private": true,
   "dependencies": {
