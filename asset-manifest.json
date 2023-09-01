@@ -2,6 +2,7 @@
   "files": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "main.css": "/static/css/main.3ac47eff.css",
     "main.js": "/static/js/main.c9dacfe7.js",
     "static/media/image1.jpeg": "/static/media/image1.6c8b5f9bd0b595ef0c27.jpeg",
@@ -22,17 +23,24 @@
     "main.c9dacfe7.js.map": "/website/static/js/main.c9dacfe7.js.map"
 =======
     "main.css": "/static/css/main.526ad70b.css",
+=======
+    "main.css": "/static/css/main.3ac47eff.css",
+>>>>>>> 1d6b4266 (Updates)
     "main.js": "/static/js/main.c9dacfe7.js",
     "static/media/image1.jpeg": "/static/media/image1.6c8b5f9bd0b595ef0c27.jpeg",
     "static/media/image2.jpeg": "/static/media/image2.cb8143052995c8485f12.jpeg",
-    "index.html": /static/index.html",
-    "main.526ad70b.css.map": "/static/css/main.526ad70b.css.map",
+    "index.html": "/index.html",
+    "main.3ac47eff.css.map": "/static/css/main.3ac47eff.css.map",
     "main.c9dacfe7.js.map": "/static/js/main.c9dacfe7.js.map"
 >>>>>>> 880bb5de (Update asset-manifest.json)
   },
   "entrypoints": [
+<<<<<<< HEAD
     "static/css/main.526ad70b.css",
 >>>>>>> 454ae84d (Updates)
+=======
+    "static/css/main.3ac47eff.css",
+>>>>>>> 1d6b4266 (Updates)
     "static/js/main.c9dacfe7.js"
   ]
 }
