@@ -6,12 +6,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "main.css": "/static/css/main.3ac47eff.css",
     "main.js": "/static/js/main.c9dacfe7.js",
 =======
 =======
 >>>>>>> e33a15e0 (Update asset-manifest.json)
 =======
+=======
+>>>>>>> f4088d75 (Updates)
 //<<<<<<< HEAD
 >>>>>>> 42e67245 (Update asset-manifest.json)
     "main.css": "/static/css/main.3562b47a.css",
@@ -31,8 +34,18 @@
     "main.526ad70b.css.map": "/website/static/css/main.526ad70b.css.map",
     "main.c9dacfe7.js.map": "/website/static/js/main.c9dacfe7.js.map"
 //>>>>>>> 454ae84d (Updates)
+=======
+    "main.css": "/static/css/main.3ac47eff.css",
+    "main.js": "/static/js/main.c9dacfe7.js",
+    "static/media/image1.jpeg": "/static/media/image1.6c8b5f9bd0b595ef0c27.jpeg",
+    "static/media/image2.jpeg": "/static/media/image2.cb8143052995c8485f12.jpeg",
+    "index.html": "/index.html",
+    "main.3ac47eff.css.map": "/static/css/main.3ac47eff.css.map",
+    "main.c9dacfe7.js.map": "/static/js/main.c9dacfe7.js.map"
+>>>>>>> 0ae8569f (Updates)
   },
   "entrypoints": [
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "static/css/main.3ac47eff.css",
@@ -71,6 +84,9 @@
 >>>>>>> 12c798e1 (Updates)
 =======
     "static/css/main.526ad70b.css",
+=======
+    "static/css/main.3ac47eff.css",
+>>>>>>> f4088d75 (Updates)
     "static/js/main.c9dacfe7.js"
 >>>>>>> 42e67245 (Update asset-manifest.json)
   ]
