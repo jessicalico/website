@@ -1,35 +1,15 @@
 {
   "files": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "main.css": "/static/css/main.3562b47a.css",
-    "main.js": "/static/js/main.65714d10.js",
-    "static/media/image1.jpeg": "/static/media/image1.6c8b5f9bd0b595ef0c27.jpeg",
-    "static/media/image2.jpeg": "/static/media/image2.cb8143052995c8485f12.jpeg",
-    "index.html": "/index.html",
-    "main.3562b47a.css.map": "/static/css/main.3562b47a.css.map",
-    "main.65714d10.js.map": "/static/js/main.65714d10.js.map"
-=======
-    "main.css": "/website/static/css/main.526ad70b.css",
-    "main.js": "/website/static/js/main.c9dacfe7.js",
-    "static/media/image1.jpeg": "/website/static/media/image1.6c8b5f9bd0b595ef0c27.jpeg",
-    "static/media/image2.jpeg": "/website/static/media/image2.cb8143052995c8485f12.jpeg",
-    "index.html": "/website/index.html",
-    "main.526ad70b.css.map": "/website/static/css/main.526ad70b.css.map",
-    "main.c9dacfe7.js.map": "/website/static/js/main.c9dacfe7.js.map"
->>>>>>> 454ae84d (Updates)
-=======
-    "main.css": "/static/css/main.526ad70b.css",
+    "main.css": "/static/css/main.3ac47eff.css",
     "main.js": "/static/js/main.c9dacfe7.js",
     "static/media/image1.jpeg": "/static/media/image1.6c8b5f9bd0b595ef0c27.jpeg",
     "static/media/image2.jpeg": "/static/media/image2.cb8143052995c8485f12.jpeg",
-    "index.html": /static/index.html",
-    "main.526ad70b.css.map": "/static/css/main.526ad70b.css.map",
+    "index.html": "/index.html",
+    "main.3ac47eff.css.map": "/static/css/main.3ac47eff.css.map",
     "main.c9dacfe7.js.map": "/static/js/main.c9dacfe7.js.map"
->>>>>>> 880bb5de (Update asset-manifest.json)
   },
   "entrypoints": [
-    "static/css/main.526ad70b.css",
+    "static/css/main.3ac47eff.css",
     "static/js/main.c9dacfe7.js"
   ]
 }
