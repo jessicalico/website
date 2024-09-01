@@ -1,49 +1,27 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: 'Victor Mono', monospace;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: 'sparkystones';
+      src: url('/SparkyStones-Regular.woff2') format('woff2');
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+
+      font-family: 'behindninety';
+      src: url('/behindninety.woff2') format('woff2');
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+    }
+  }
+
+@layer components {
+  .navbar-gradient {
+    @apply bg-gradient-to-r from-[#6e3ba5] from-60% via-[#5cb6ff] via-80% to-[#ff5ccb] to-100%
+  }
 }
 
-.home,
-.about,
-.projects,
-.contact {
-  display: flex;
-  height: 90vh;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Victor Mono', monospace;
-  font-size: 3rem;
-}
-
-.about {
-  background-image: url('/public/image2.jpeg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #22226e;
-  font-family: 'Victor Mono', monospace;
-  font-size: 100px;
-}
-
-.projects {
-  background-image: url('/public/image1.jpeg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #22226e;
-  font-family: 'Victor Mono', monospace;
-  font-size: 100px;
-}
-
-.contact {
-  background-image: url('/public/image2.jpeg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #22226e;
-  font-family: 'Victor Mono', monospace;
-  font-size: 100px;
-}
 
